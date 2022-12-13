@@ -563,12 +563,12 @@ ul {
 /*------------------------------------------------------------------ORGULLO S.I.LABRADOR------------------------------------------------------------------*/
 .orgullo {
     margin-top: 40px;
-    font-size: 50px;
+    font-size: 30px;
     text-align: center;
 }
 
 .tamaño {
-    width: 350px;
+    width: 25%;
     height: 350px;
     margin: 11px 11px;
 }

@@ -79,4 +79,4 @@ app.post('/auth', function (request, response) {
 		response.send('Por favor ingresa Usuario y Contraseña!');
 		response.end();
 	}
-});
+}); 
